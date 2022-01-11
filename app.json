@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "ZDY-dan",
+  "description": "ZDY-dan",
   "keywords": [
     "vmess or vles"
   ],
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/hyun78fhser/ZDY-dan",
+  "repository": "https://github.com/hyun78fhser/ZDY-dan",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
